@@ -2,10 +2,13 @@
 
 #### 👋 My name is Wei Zhanzhan. I am a Front-end developer. I live in China now.
 
-#### 🧰 Vue, Angular, TypeScript, React. 
+#### 🧰 Vue, TypeScript, React, HTML5. 
 
 #### 📫 675398552@qq.com
 
+#### 🌻 WeChat weizhan675398552
+
+#### 📢 You can add my friends and study together in the front-end exchange group
 
 <!--
 **weizhanzhan/weizhanzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
