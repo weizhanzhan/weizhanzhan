@@ -1,4 +1,4 @@
-![weizhanzhan's github stats](https://github-readme-status.vercel.app/api?username=weizhanzhan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide_border=true)
+![weizhanzhan's github stats](https://github-readme-status.vercel.app/api?username=weizhanzhan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 #### 👋 My name is Wei Zhanzhan. I am a Front-end developer. I live in China now.
 
