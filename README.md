@@ -1,8 +1,8 @@
 ![weizhanzhan's github stats](https://github-readme-stats.vercel.app/api?username=weizhanzhan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-#### 👋 My name is Wei Zhanzhan. I am a Front-end developer. I live in China now.
+#### 👋 My name is Wei Zhanzhan. a Front-end developer.
 
-#### 🧰 Vue, TypeScript, React, HTML5. 
+#### 🧰 JavaScript, TypeScript, Vue, React, HTML5. 
 
 #### 📫 675398552@qq.com
 
