@@ -1,14 +1,11 @@
 ![weizhanzhan's github stats](https://github-readme-stats.vercel.app/api?username=weizhanzhan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-#### 👋 My name is Wei Zhanzhan. a Front-end developer.
-
-#### 🧰 JavaScript, TypeScript, Vue, React, HTML5. 
+#### 👋 Hello!
 
 #### 📫 675398552@qq.com
 
 #### 🌻 WeChat weizhan675398552
 
-#### 📢 You can add my friends and study together in the front-end exchange group
 
 <!--
 **weizhanzhan/weizhanzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
