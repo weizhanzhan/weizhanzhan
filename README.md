@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - ⚡ Fun fact: Bodybuilding
 - 📫 How to reach me:
-- - 🏝 wechat：weizhan675398552
+- - 🏝 wechat：wzz17721675219
 - - 🌻 email: 675398552@qq.com
 
